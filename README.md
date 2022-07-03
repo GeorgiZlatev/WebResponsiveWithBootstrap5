@@ -6,6 +6,6 @@
 <div>
 <br>
 <div>
-  <label>Mobile View</label>
+  <label>Mobile View</label><br>
   <img src ="mobile.PNG" alt="pic_LOGO" />
 <div>
