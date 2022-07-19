@@ -2,33 +2,39 @@ body{
   font-family: "Montserrat"
 }
 
-#title{
-  background-color: #FF4C68;
-  color: #fff;
-}
+
 
 .container-fluid{
   padding: 3% 15%;
 }
 
-h1{
+/* Section */
+
+.colored-section{
+  background-color: #FF4C68;
+  color: #fff;
+}
+
+.while-section{
+  background-color: #fff;
+
+}
+
+h1, h2, h3, h4, h5 , h6{
   font-family: "Montserrat";
   font-weight: 900;
+}
+
+h1{
   font-size: 3rem;
   line-height: 1.5;
 }
 
 h2{
-  font-family: "Montserrat";
-  font-weight: 900;
   font-size: 3rem;
   line-height: 1.5;
 }
 
-h3{
-  font-family: "Montserrat";
-  font-weight: 900;
-}
 
 p{
 color: #8f8f8f;
@@ -73,7 +79,6 @@ color: #8f8f8f;
 
 #features{
   padding:  7% 15%;
-  background-color: #fff;
   position: relative;
   z-index: 1;
 
@@ -99,7 +104,7 @@ color: #8f8f8f;
   padding: 7% 15%;
   text-align: center;
   background-color: #EF8172;
-  color: #fff;
+
 }
 
 .testimonials-image{
